@@ -1,5 +1,5 @@
 ---
-title: 깃허브 블로그를 시작하며,
+title: Any English Title..
 description: >-
   Get started with Chirpy basics in this comprehensive overview.
   You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
