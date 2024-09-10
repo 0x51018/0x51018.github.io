@@ -1,11 +1,11 @@
 ---
-title: Getting Started
+title: 깃허브 블로그를 시작하며,
 description: >-
   Get started with Chirpy basics in this comprehensive overview.
   You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
+author: YHJ
+date: 2024-09-11 00:40:00 +0800
+categories: [Blogging]
 tags: [getting started]
 pin: true
 media_subpath: ''
